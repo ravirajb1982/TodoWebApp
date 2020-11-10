@@ -48,6 +48,5 @@ D:\Projects\TodoWebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
 D:\Projects\TodoWebApp\WebApp\bin\System.Web.WebPages.Razor.xml
 D:\Projects\TodoWebApp\WebApp\bin\Antlr3.Runtime.pdb
 D:\Projects\TodoWebApp\WebApp\bin\Newtonsoft.Json.xml
-D:\Projects\TodoWebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 D:\Projects\TodoWebApp\WebApp\obj\Debug\WebApp.dll
 D:\Projects\TodoWebApp\WebApp\obj\Debug\WebApp.pdb
